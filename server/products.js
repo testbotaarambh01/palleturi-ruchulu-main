@@ -1,0 +1,17 @@
+export const products = [
+  { id: 1, title: 'Chegodilu', price: 149 },
+  { id: 2, title: 'Murukulu', price: 169 },
+  { id: 3, title: 'Sakinalu', price: 219 },
+  { id: 4, title: 'Chekkalu', price: 159 },
+  { id: 5, title: 'Ariselu', price: 249 },
+  { id: 6, title: 'Bellam Gavvalu', price: 189 },
+  { id: 7, title: 'Karam Pusa', price: 139 },
+  { id: 8, title: 'Ribbon Pakoda', price: 159 },
+  { id: 9, title: 'Boondi Mixture', price: 179 },
+  { id: 10, title: 'Sunnundalu', price: 299 },
+  { id: 11, title: 'Nuvvula Laddu', price: 229 },
+  { id: 12, title: 'Ragi Murukulu', price: 189 },
+  { id: 13, title: 'Jonna Chekkalu', price: 179 },
+  { id: 14, title: 'Minapa Garelu Mix', price: 129 },
+  { id: 15, title: 'Palli Karam Podi', price: 119 },
+];
